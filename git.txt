@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m "Первый коммит: GUI на CustomTkinter с MySQL"
+git remote add origin https://github.com/rvachester/Modules.git
+git branch -M main
+git push -u origin main
+
+
+git add .
+git commit -m "обновление"
+git push
